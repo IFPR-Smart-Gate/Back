@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Walmonn Eduardo",
+        "siap": 123456789,
+        "cpf": "123456789",
+        "senha": 15082007,
+        "email": "walmonn.eduardo.tds2023@gmail.com",
+        "tag": "",
+        "adm": true,
+        "liberar": true
+    },
+    {
+        "nome": "Felipe",
+        "siap": 565456,
+        "cpf": "98756419",
+        "senha": 10092007,
+        "email": "felipe.buche.tds2023@gmail.com",
+        "tag": "",
+        "adm": true,
+        "liberar": true
+    },
+    {
+        "nome": "Felipe",
+        "siap": 0,
+        "cpf": "54625146",
+        "senha": 10092007,
+        "email": "area1interact@outlook.com",
+        "tag": "d7g8u9",
+        "adm": true,
+        "liberar": true
+    }
+]
